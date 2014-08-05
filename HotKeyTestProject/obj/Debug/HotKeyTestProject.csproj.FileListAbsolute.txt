@@ -1,0 +1,9 @@
+C:\Users\akovacev\Documents\Visual Studio 2012\Projects\HotKeyTestProject\HotKeyTestProject\bin\Debug\HotKeyTestProject.exe.config
+C:\Users\akovacev\Documents\Visual Studio 2012\Projects\HotKeyTestProject\HotKeyTestProject\bin\Debug\HotKeyTestProject.exe
+C:\Users\akovacev\Documents\Visual Studio 2012\Projects\HotKeyTestProject\HotKeyTestProject\bin\Debug\HotKeyTestProject.pdb
+C:\Users\akovacev\Documents\Visual Studio 2012\Projects\HotKeyTestProject\HotKeyTestProject\obj\Debug\HotKeyTestProject.exe
+C:\Users\akovacev\Documents\Visual Studio 2012\Projects\HotKeyTestProject\HotKeyTestProject\obj\Debug\HotKeyTestProject.pdb
+C:\Users\akovacev\Documents\Visual Studio 2012\Projects\HotKeyTestProject\HotKeyTestProject\obj\Debug\HotKeyTestProject.csprojResolveAssemblyReference.cache
+C:\Users\akovacev\Documents\Visual Studio 2012\Projects\HotKeyTestProject\HotKeyTestProject\obj\Debug\HotKeyTestProject.HotKeysForm.resources
+C:\Users\akovacev\Documents\Visual Studio 2012\Projects\HotKeyTestProject\HotKeyTestProject\obj\Debug\HotKeyTestProject.csproj.GenerateResource.Cache
+C:\Users\akovacev\Documents\Visual Studio 2012\Projects\HotKeyTestProject\HotKeyTestProject\obj\Debug\HotKeyTestProject.Properties.Resources.resources

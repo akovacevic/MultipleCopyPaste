@@ -1,0 +1,9 @@
+C:\Users\akovacev\Documents\Visual Studio 2012\Projects\HotKeyTestProject\HotKeyTestProject\bin\Release\HotKeyTestProject.exe.config
+C:\Users\akovacev\Documents\Visual Studio 2012\Projects\HotKeyTestProject\HotKeyTestProject\bin\Release\HotKeyTestProject.exe
+C:\Users\akovacev\Documents\Visual Studio 2012\Projects\HotKeyTestProject\HotKeyTestProject\bin\Release\HotKeyTestProject.pdb
+C:\Users\akovacev\Documents\Visual Studio 2012\Projects\HotKeyTestProject\HotKeyTestProject\obj\Release\HotKeyTestProject.exe
+C:\Users\akovacev\Documents\Visual Studio 2012\Projects\HotKeyTestProject\HotKeyTestProject\obj\Release\HotKeyTestProject.pdb
+C:\Users\akovacev\Documents\Visual Studio 2012\Projects\HotKeyTestProject\HotKeyTestProject\bin\Release\Topshelf.dll
+C:\Users\akovacev\Documents\Visual Studio 2012\Projects\HotKeyTestProject\HotKeyTestProject\obj\Release\HotKeyTestProject.csprojResolveAssemblyReference.cache
+C:\Users\akovacev\Documents\Visual Studio 2012\Projects\HotKeyTestProject\HotKeyTestProject\bin\Release\WindowsInput.dll
+C:\Users\akovacev\Documents\Visual Studio 2012\Projects\HotKeyTestProject\HotKeyTestProject\bin\Release\WindowsInput.xml

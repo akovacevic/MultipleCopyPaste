@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotKeyTestProject", "HotKeyTestProject\HotKeyTestProject.csproj", "{EC5B5264-CBB6-4A99-B2DD-8C72E6D776AB}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://adiskovacevic.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HotKeyTestProject\\HotKeyTestProject.csproj
+		SccProjectName1 = HotKeyTestProject
+		SccLocalPath1 = HotKeyTestProject
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5B5264-CBB6-4A99-B2DD-8C72E6D776AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5B5264-CBB6-4A99-B2DD-8C72E6D776AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5B5264-CBB6-4A99-B2DD-8C72E6D776AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5B5264-CBB6-4A99-B2DD-8C72E6D776AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
